@@ -9,7 +9,7 @@ section {
     margin: 0 auto;
 }
 
-header {
+.header {
     background: white;
     width: 100%;
     overflow: hidden;
